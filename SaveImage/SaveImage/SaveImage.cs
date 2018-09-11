@@ -91,8 +91,8 @@ namespace SaveImage
             repo.SaveImage.Text1001.PressKeys("{Delete}");
             Thread.Sleep(200);
 
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(3));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(3));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
             Thread.Sleep(200);
 
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveImage.Text1001'.", repo.SaveImage.Text1001Info, new RecordItemIndex(4));
@@ -125,8 +125,8 @@ namespace SaveImage
             repo.SaveImage.Text1001.PressKeys("{Delete}");
             Thread.Sleep(200);
 
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(12));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(12));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
             Thread.Sleep(200);
 
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveImage.Text1001'.", repo.SaveImage.Text1001Info, new RecordItemIndex(13));
@@ -159,8 +159,8 @@ namespace SaveImage
             repo.SaveImage.Text1001.PressKeys("{Delete}");
             Thread.Sleep(200);
 
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(21));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(21));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
             Thread.Sleep(200);
 
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveImage.Text1001'.", repo.SaveImage.Text1001Info, new RecordItemIndex(22));
@@ -193,8 +193,8 @@ namespace SaveImage
             repo.SaveImage.Text1001.PressKeys("{Delete}");
             Thread.Sleep(200);
 
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(30));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(30));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
             Thread.Sleep(200);
 
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveImage.Text1001'.", repo.SaveImage.Text1001Info, new RecordItemIndex(31));
@@ -227,8 +227,8 @@ namespace SaveImage
             repo.SaveImage.Text1001.PressKeys("{Delete}");
             Thread.Sleep(200);
 
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(39));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(39));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
             Thread.Sleep(200);
 
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveImage.Text1001'.", repo.SaveImage.Text1001Info, new RecordItemIndex(40));
@@ -261,8 +261,8 @@ namespace SaveImage
             repo.SaveImage.Text1001.PressKeys("{Delete}");
             Thread.Sleep(200);
 
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(48));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(48));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
             Thread.Sleep(200);
 
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveImage.Text1001'.", repo.SaveImage.Text1001Info, new RecordItemIndex(49));
@@ -295,8 +295,8 @@ namespace SaveImage
             repo.SaveImage.Text1001.PressKeys("{Delete}");
             Thread.Sleep(200);
 
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(57));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image'.", new RecordItemIndex(57));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\image");
             Thread.Sleep(200);
 
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveImage.Text1001'.", repo.SaveImage.Text1001Info, new RecordItemIndex(58));

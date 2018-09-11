@@ -87,8 +87,8 @@ namespace SaveImage
             repo.SaveFullScreen.Text1001.PressKeys("{Delete}");
             Delay.Milliseconds(200);
             
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(2));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(2));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
             Delay.Milliseconds(200);
             
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveFullScreen.Text1001'.", repo.SaveFullScreen.Text1001Info, new RecordItemIndex(3));
@@ -122,8 +122,8 @@ namespace SaveImage
             repo.SaveFullScreen.Text1001.PressKeys("{Delete}");
             Delay.Milliseconds(200);
             
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(11));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(11));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
             Delay.Milliseconds(200);
             
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveFullScreen.Text1001'.", repo.SaveFullScreen.Text1001Info, new RecordItemIndex(12));
@@ -157,8 +157,8 @@ namespace SaveImage
             repo.SaveFullScreen.Text1001.PressKeys("{Delete}");
             Delay.Milliseconds(200);
             
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(20));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(20));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
             Delay.Milliseconds(200);
             
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveFullScreen.Text1001'.", repo.SaveFullScreen.Text1001Info, new RecordItemIndex(21));
@@ -192,8 +192,8 @@ namespace SaveImage
             repo.SaveFullScreen.Text1001.PressKeys("{Delete}");
             Delay.Milliseconds(200);
             
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(29));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(29));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
             Delay.Milliseconds(200);
             
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveFullScreen.Text1001'.", repo.SaveFullScreen.Text1001Info, new RecordItemIndex(30));
@@ -227,8 +227,8 @@ namespace SaveImage
             repo.SaveFullScreen.Text1001.PressKeys("{Delete}");
             Delay.Milliseconds(200);
             
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(38));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(38));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
             Delay.Milliseconds(200);
             
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveFullScreen.Text1001'.", repo.SaveFullScreen.Text1001Info, new RecordItemIndex(39));
@@ -262,8 +262,8 @@ namespace SaveImage
             repo.SaveFullScreen.Text1001.PressKeys("{Delete}");
             Delay.Milliseconds(200);
             
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(47));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(47));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
             Delay.Milliseconds(200);
             
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveFullScreen.Text1001'.", repo.SaveFullScreen.Text1001Info, new RecordItemIndex(48));
@@ -297,8 +297,8 @@ namespace SaveImage
             repo.SaveFullScreen.Text1001.PressKeys("{Delete}");
             Delay.Milliseconds(0);
             
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(56));
-            Keyboard.Press("D:\\Joro\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen'.", new RecordItemIndex(56));
+            Keyboard.Press("C:\\JORO\\AUTOMATIONS\\GIT_Automations\\VERSION 3\\AutomationImages\\Reports\\fullscreen");
             Delay.Milliseconds(200);
             
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Return}' with focus on 'SaveFullScreen.Text1001'.", repo.SaveFullScreen.Text1001Info, new RecordItemIndex(57));

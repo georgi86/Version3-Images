@@ -149,7 +149,7 @@ namespace SaveImage
             /// Creates a new SnapXAutoRunModeUntitled  folder.
             /// </summary>
             public SnapXAutoRunModeUntitledAppFolder(RepoGenBaseFolder parentFolder) :
-                    base("SnapXAutoRunModeUntitled", "/form[@title='Snap-X - [Untitled]']", parentFolder, 30000, null, true, "8cc8b891-a104-4bf4-9ce1-10f9ceec734c", "")
+                    base("SNAPXAutoRunModeUntitled", "/form[@title='SNAP-X - [Untitled]']", parentFolder, 30000, null, true, "8cc8b891-a104-4bf4-9ce1-10f9ceec734c", "")
             {
                 _saveimageInfo = new RepoItemInfo(this, "SaveImage", "?/?/form//toolbar/button[@text='Save Image' and @commandid='32903']", 30000, null, "b84598ab-935e-4618-932e-d8315a9beb30");
                 _saveimageandtargetInfo = new RepoItemInfo(this, "SaveImageAndTarget", "?/?/form//toolbar/button[@text='Save Image and Target' and @commandid='32904']", 30000, null, "bf41c5fb-c563-4bdd-a13c-3644b1b3d23c");
